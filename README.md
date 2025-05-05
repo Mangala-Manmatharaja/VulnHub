@@ -1,4 +1,4 @@
-# VulnHub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# VulnHub [![VulnHub](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.awesome-vulnerable)
 ![Git Actions](https://github.com/kaiiyer/awesome-vulnerable/workflows/CI/badge.svg)
 <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
@@ -136,3 +136,4 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 ---
 
 *License:
+Mangala-Manmatharaja
