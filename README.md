@@ -3,7 +3,7 @@
 
 <img src="https://octodex.github.com/images/grim-repo.jpg" alt="Octocat" width="210" height="225">
 
-*A curated list of intentionally vulnerable applications and systems for penetration testing practice. Ideal for both beginners and professionals to enhance the .*
+*A curated list of intentionally vulnerable applications and systems for penetration testing practice. Ideal for both beginners and professionals to enhance thei .*
 
 ## Contents
 
